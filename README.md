@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/mahfuzerrahmancse/mahfuzerrahmancse/output/snake.svg" alt="Snake animation" />
 <div align="center">
   <img height="200" src="https://media2.giphy.com/media/ohONS2y8GTDoI/giphy.gif?cid=ecf05e47i1f4wnsy7eczmgqok48g7onjfs3z875bq6r2ef1f&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
